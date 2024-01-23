@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.tutorialsninja.TestCases.LoginTest">
+      <class name="com.tutorialsninja.TestCases.AddToProductTest">
         <methods>
-          <include name="verifyLoginWithInvalidCrendentials"/>
-          <include name="tearDown"/>
           <include name="loginSetup"/>
+          <include name="tearDown"/>
+          <include name="testCase1"/>
         </methods>
-      </class> <!-- com.tutorialsninja.TestCases.LoginTest -->
+      </class> <!-- com.tutorialsninja.TestCases.AddToProductTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
