@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-22T21:50:54 EST" name="Default suite" finished-at="2024-01-22T21:51:09 EST" duration-ms="14406">
+  <suite started-at="2024-01-25T19:58:02 EST" name="Default suite" finished-at="2024-01-25T19:58:16 EST" duration-ms="14646">
     <groups>
     </groups>
-    <test started-at="2024-01-22T21:50:54 EST" name="Default test" finished-at="2024-01-22T21:51:09 EST" duration-ms="14406">
-      <class name="com.tutorialsninja.TestCases.AddToProductTest">
-        <test-method is-config="true" signature="loginSetup()[pri:0, instance:com.tutorialsninja.TestCases.AddToProductTest@4d154ccd]" started-at="2024-01-22T21:50:54 EST" name="loginSetup" finished-at="2024-01-22T21:50:58 EST" duration-ms="3886" status="PASS">
+    <test started-at="2024-01-25T19:58:02 EST" name="Default test" finished-at="2024-01-25T19:58:16 EST" duration-ms="14646">
+      <class name="com.tutorialsninja.TestCases.AddToCartTest">
+        <test-method is-config="true" signature="loginSetup()[pri:0, instance:com.tutorialsninja.TestCases.AddToCartTest@4d154ccd]" started-at="2024-01-25T19:58:02 EST" name="loginSetup" finished-at="2024-01-25T19:58:06 EST" duration-ms="4195" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginSetup -->
-        <test-method signature="testCase1()[pri:0, instance:com.tutorialsninja.TestCases.AddToProductTest@4d154ccd]" started-at="2024-01-22T21:50:58 EST" name="testCase1" finished-at="2024-01-22T21:51:09 EST" duration-ms="10321" status="PASS">
+        <test-method signature="testCase1()[pri:0, instance:com.tutorialsninja.TestCases.AddToCartTest@4d154ccd]" started-at="2024-01-25T19:58:06 EST" name="testCase1" finished-at="2024-01-25T19:58:16 EST" duration-ms="10248" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase1 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.TestCases.AddToProductTest@4d154ccd]" started-at="2024-01-22T21:51:09 EST" name="tearDown" finished-at="2024-01-22T21:51:09 EST" duration-ms="162" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.TestCases.AddToCartTest@4d154ccd]" started-at="2024-01-25T19:58:16 EST" name="tearDown" finished-at="2024-01-25T19:58:16 EST" duration-ms="170" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.tutorialsninja.TestCases.AddToProductTest -->
+      </class> <!-- com.tutorialsninja.TestCases.AddToCartTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
